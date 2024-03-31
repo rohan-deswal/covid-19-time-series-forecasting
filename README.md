@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://giphy.com/clips/studiosoriginals-blobsinspace-dJdH2F5aaYfU6bcKhg" width="100" />
+  <img src="https://media.tenor.com/1_WxLFfCh6wAAAAi/covid-corona.gif" width="200" />
 </p>
 <p align="center">
     <h1 align="center">COVID-19 TIME SERIES FORECASTING</h1>
