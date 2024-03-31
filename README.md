@@ -43,7 +43,7 @@
 
 ##  📍Overview
 
-The provided block of code is quite extensive and covers various aspects of time series analysis and forecasting using SARIMAX models. Let's break down the entire block of code and summarize the key steps and concepts involved:
+This repository covers various aspects of time series analysis and forecasting using SARIMAX models. here is the summary of the key steps and concepts involved:
 
 1. **Data Preprocessing:**
    - The code starts by reading a dataset containing daily Covid-19 data for different states in India and performs data cleaning operations like converting the 'Date' column to datetime format, dropping unnecessary columns related to specific states, and focusing on the 'Confirmed' cases.
